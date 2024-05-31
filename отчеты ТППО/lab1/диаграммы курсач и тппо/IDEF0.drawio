@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2024-03-16T11:10:36.886Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36" etag="bqj3mhlolEcVh9oKO0gG" version="24.0.7" type="device">
+  <diagram name="Страница — 1" id="_k7X2LUXhLaStbc6grG4">
+    <mxGraphModel dx="1012" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4R6h3u2ElAtVXQDS5pyK-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Проведение урока&lt;br&gt;&amp;nbsp;математики&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="240" y="320" width="320" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="4ZAXN-EycAdYn7AnqBn4-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.127;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="370" as="sourcePoint" />
+            <mxPoint x="240" y="370.32000000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ZAXN-EycAdYn7AnqBn4-4" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="580" as="sourcePoint" />
+            <mxPoint x="399.5" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4ZAXN-EycAdYn7AnqBn4-5" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp; &amp;nbsp; Учитель математики&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="380" y="520" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="P0-pLIS1LEKjCsPrtMa9-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.44;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490" y="220" as="sourcePoint" />
+            <mxPoint x="490.4" y="320.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="P0-pLIS1LEKjCsPrtMa9-3" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 14px;&quot;&gt;&lt;font face=&quot;Arial, sans-serif&quot;&gt;Нормативно правовые акты в сфере образования&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="500" y="240" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bqVK2Qs7yenPgVk84HZM-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="370" as="sourcePoint" />
+            <mxPoint x="810" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zUVP5YPiteapXKaXfQga-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.44;entryY=-0.005;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="220" as="sourcePoint" />
+            <mxPoint x="280.4" y="320.00000000000006" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zUVP5YPiteapXKaXfQga-3" value="Подходы к проведению уроков" style="text;whiteSpace=wrap;fontSize=14;" parent="1" vertex="1">
+          <mxGeometry x="290" y="240" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="zUVP5YPiteapXKaXfQga-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Тип математической задачи&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="15" y="340" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="zUVP5YPiteapXKaXfQga-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Демонстрация&lt;br&gt;сгенерированной задачи и ответа&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="570" y="320" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="zUVP5YPiteapXKaXfQga-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="450" as="sourcePoint" />
+            <mxPoint x="810" y="450" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="750" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zUVP5YPiteapXKaXfQga-10" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;График, соответствующий задаче&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="560" y="410" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l0nTXihV_g41p-UA929R-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Математическая функция,&amp;nbsp;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;введенная пользователем&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="15" y="400" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="l0nTXihV_g41p-UA929R-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.127;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="450" as="sourcePoint" />
+            <mxPoint x="240" y="450.32000000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
